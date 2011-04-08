@@ -1,0 +1,3 @@
+[submodule "Externals/cocos2d"]
+	path = Externals/cocos2d
+	url = https://github.com/cocos2d/cocos2d-iphone.git
