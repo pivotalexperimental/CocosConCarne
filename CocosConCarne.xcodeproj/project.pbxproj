@@ -13,6 +13,7 @@
 /* Begin PBXFileReference section */
 		AA747D9E0F9514B9006C5449 /* CocosConCarne_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocosConCarne_Prefix.pch; sourceTree = "<group>"; };
 		AE4C08C7134F859000EC0F7D /* libCocosConCarne.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libCocosConCarne.a; path = "build/Debug-iphonesimulator/libCocosConCarne.a"; sourceTree = "<group>"; };
+		AE4C08DD134F887700EC0F7D /* MIT.LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MIT.LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +33,7 @@
 				AE4C08C9134F859C00EC0F7D /* Lib */,
 				AA747D9E0F9514B9006C5449 /* CocosConCarne_Prefix.pch */,
 				AE4C08C7134F859000EC0F7D /* libCocosConCarne.a */,
+				AE4C08DD134F887700EC0F7D /* MIT.LICENSE */,
 			);
 			name = CocosConCarne;
 			sourceTree = "<group>";
